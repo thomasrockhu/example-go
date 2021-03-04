@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/codecov/example-go.svg?branch=master)](https://travis-ci.org/codecov/example-go)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-go?ref=badge_shield)
-[![codecov](https://codecov.io/gh/thomasrockhu/example-go/branch/master/graph/badge.svg?token=IL2TY6T0el)](https://codecov.io/gh/thomasrockhu/example-go)
 
 > Note: use `-covermode=atomic` or `-covermode=count` to show how many times a statement was executed.
 
